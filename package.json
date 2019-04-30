@@ -1,7 +1,7 @@
 {
     "name": "file-folder-dialogs",
     "description": "Cross-platform Node.js module, that allows you to open a native file or folder chooser dialog from CLI, without a web browser",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "index.js",
     "repository": {
         "type" : "git",
